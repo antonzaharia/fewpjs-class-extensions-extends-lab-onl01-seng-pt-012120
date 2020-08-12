@@ -33,4 +33,9 @@ class Square extends Polygon {
       return false
     }
   }
+
+  get area() {
+    
+  }
 }
+
