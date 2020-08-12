@@ -16,7 +16,7 @@ class Polygon {
 class Triangle extends Polygon {
   get isValid() {
     if((this.array[0] + this.array[1]) > this.array[2]) {
-      return false
+      return true
     }
   }
 }
