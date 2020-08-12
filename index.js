@@ -35,7 +35,6 @@ class Square extends Polygon {
   }
 
   get area() {
-    
+
   }
 }
-
